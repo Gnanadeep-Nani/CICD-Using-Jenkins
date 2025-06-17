@@ -20,4 +20,9 @@ else
 {
 echo "Wrong credentials";
 }
+else
+{
+echo "valid user name and password";
+}
+
 ?>
