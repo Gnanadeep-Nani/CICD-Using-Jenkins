@@ -1,0 +1,13 @@
+| Command                    | Description                                     |
+| -------------------------- | ----------------------------------------------- |
+| `git status`               | Show the working directory status               |
+| `git add <file>`           | Stage changes for commit                        |
+| `git add .`                | Stage all changes                               |
+| `git commit -m "message"`  | Commit changes with a message                   |
+| `git commit -am "message"` | Add and commit in one step (tracked files only) |
+| Command             | Description              |
+| ------------------- | ------------------------ |
+| `git log`           | Show commit history      |
+| `git log --oneline` | Condensed commit history |
+| `git diff`          | Show unstaged changes    |
+| `git diff --staged` | Show staged changes      |
